@@ -12,9 +12,10 @@ I believe the hardest part of AI transformation isn't the technology. It's the d
 
 #### What I care about
 
-- **Context Engineering** — Designing the environment where AI agents do their best work
-- **Agent Skills** — Modular capabilities that make AI assistants genuinely useful
-- **First Mile Problems** — The messy, human, organizational challenges of adopting AI
+- **Prompt Engineering** — Crafting the right instructions for AI to follow
+- **Context Engineering** — Designing the knowledge and memory that AI agents carry
+- **Harness Engineering** — Building the constraints, feedback loops, and guardrails where agents do their best work
+- **First-Mile Problems** — The messy, human, organizational challenges of bringing AI into the real world
 
 ---
 
